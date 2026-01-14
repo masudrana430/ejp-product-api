@@ -26,7 +26,7 @@ let products = [
     priority: "Featured",
     date: "2025-01-01",
     imageUrl:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo0D9NsUy3dEgbqLNGTm7WCwVKlbGZNt71og&s",
+      "https://cdn.thewirecutter.com/wp-content/media/2023/09/noise-cancelling-headphone-2048px-0876.jpg",
   },
   {
     id: "2",
@@ -39,7 +39,7 @@ let products = [
     priority: "Standard",
     date: "2025-01-05",
     imageUrl:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo0D9NsUy3dEgbqLNGTm7WCwVKlbGZNt71og&s",
+      "https://www.yankodesign.com/images/design_news/2020/11/a-smartwatch-that-actually-helps-you-disconforget-about-mobile-distractions/1_Time-Off_Rudolph-Schelling-Webermann_smart-watch-internet-blocker.jpg",
   },
   {
     id: "3",
@@ -52,7 +52,7 @@ let products = [
     priority: "Featured",
     date: "2025-01-10",
     imageUrl:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo0D9NsUy3dEgbqLNGTm7WCwVKlbGZNt71og&s",
+      "https://hbada.com/cdn/shop/files/P501--AI_2.jpg?v=1739952619",
   },
   {
     id: "4",
@@ -65,7 +65,7 @@ let products = [
     priority: "Standard",
     date: "2025-01-12",
     imageUrl:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo0D9NsUy3dEgbqLNGTm7WCwVKlbGZNt71og&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6QGIqgWMTnNqCj8ObhDwTsKoZEmrvMtH7dg&s",
   },
   {
     id: "5",
@@ -78,7 +78,7 @@ let products = [
     priority: "Low",
     date: "2025-01-15",
     imageUrl:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo0D9NsUy3dEgbqLNGTm7WCwVKlbGZNt71og&s",
+      "https://cdn.thewirecutter.com/wp-content/media/2024/11/portablebluetoothspeakers-2048px-9130.jpg?auto=webp&quality=75&width=1024",
   },
   {
     id: "6",
@@ -91,7 +91,7 @@ let products = [
     priority: "Standard",
     date: "2025-01-18",
     imageUrl:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo0D9NsUy3dEgbqLNGTm7WCwVKlbGZNt71og&s",
+      "https://m.media-amazon.com/images/I/71u8Fow735L._AC_SL1500_.jpg",
   },
 ];
 
